@@ -1,0 +1,7 @@
+/node_modules
+old.js
+/commands
+config.json
+app.yaml
+.gcloudignore
+.env
